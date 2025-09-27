@@ -1,1 +1,1 @@
-### Use krne ke liye kripya apna API key set karein!!!
+### Use krne ke liye kripya .env file banakar apna API key set karein!!!
