@@ -1,0 +1,5 @@
+python-dotenv
+autogen
+google-genai
+google-cloud-aiplatform
+ag2[gemini]
