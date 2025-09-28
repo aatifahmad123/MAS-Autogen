@@ -18,8 +18,8 @@ This project implements a multi-agent system (MAS) to optimize classroom schedul
 #### Setup:
 1. Clone the repository:
    ```bash
-git clone <repository_url>
-cd <repository_directory>
+    git clone <repository_url>
+    cd <repository_directory>
     ```
 
 2. Create a `.env` file in the root directory and add your API key:
