@@ -18,8 +18,8 @@ This project implements a multi-agent system (MAS) to optimize classroom schedul
 #### Setup:
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-    cd <repository_directory>
+git clone <repository_url>
+cd <repository_directory>
     ```
 
 2. Create a `.env` file in the root directory and add your API key:
@@ -29,15 +29,15 @@ This project implements a multi-agent system (MAS) to optimize classroom schedul
 
 3. Run the main script:
     ```bash
-    python system1.py
+    python system3.py
     ```
 
 #### Configuration:
-- Modify the `config_list` in `system1.py` to change LLM models or parameters.
+- Modify the `config_list` in `system3.py` to change LLM models or parameters.
 - Adjust `CAPACITY`, `ATTENDANCES`, `SLOTS`, and `TIMETABLE` variables to simulate different classroom environments and scheduling challenges.
 
 #### Files:
-- `system1.py`: Main script implementing the multi-agent system for scheduling
+- `system3.py`: Main script implementing the multi-agent system for scheduling
 - `README.md`: Project documentation
 - `.env`: Environment file for storing API keys (not included in the repository for security reasons)
 - `requirements.txt`: List of required Python packages
